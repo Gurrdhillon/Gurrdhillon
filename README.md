@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gurrdhillon
-- 👀 I’m interested in Software Engineering, Full Stack development and data engineering.
+- 👀 I’m interested in Software Engineering, Full Stack development and Data engineering.
 - 🌱 I’m currently learning React, Fluttter, JS.
 - 📫 Reach me by email: Gursevaks2001@gmail.com
 
