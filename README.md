@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gurrdhillon
+- 👋 Hi, I’m Gursevak Dhillon.
 - 👀 I’m interested in Software Engineering, Full Stack development and Data engineering.
 - 🌱 I’m currently learning React, Fluttter, JS.
 - 📫 Reach me by email: Gursevaks2001@gmail.com
